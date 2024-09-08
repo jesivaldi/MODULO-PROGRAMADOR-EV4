@@ -26,6 +26,7 @@ de cómo es el proceso general de una máquina de este tipo:
 6-Inspección y Recolección
 
 ### COMPORTAMIENTOS CLAVES DEL OBEJTO:
+
 ## -Control de la temperatura para proformas
 
 La temperatura ideal es de 90 a 120º aprox, se debe mantener esta temperatura para el buen modelado.
@@ -37,14 +38,14 @@ La temperatura ideal es de 90 a 120º aprox, se debe mantener esta temperatura p
 La presión del aire utilizada para soplar las preformas dentro de los moldes debe ajustarse según el material 
 y el tamaño de la botella la presión ideal suele estar entre 25 a 40 bares. Una presión inadecuada podría deformar la botella o no llenarla completamente.
 
- *Obejtivo logico*: Establecer una presion ideal y monitorearla constantemente con la presion actual en base al material y tamaño. En caso que la presion este fuera de la presion ideal la máquina debe 
- ajustar automáticamente.
+ *Obejtivo lógico*: Establecer una presion ideal y monitorearla constantemente con la presion actual en base al material y tamaño. En caso que la presion este fuera de la presion ideal la máquina debe 
+ ajustarla automáticamente.
  
 ## -Calculo del tiempo de soplado basado en el tamaño de la proforma
 
 En base al tamaño de la proforma el tiempo de soplado es diferente mientras mas grande es mayor el tiempo.
 
-*Obejtivo logico*: la maquina debe calcular el tiempo necesario segun el tamaño de la proforma.
+*Obejtivo lógico*: la maquina debe calcular el tiempo necesario segun el tamaño de la proforma.
  
 
 

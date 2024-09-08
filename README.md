@@ -9,7 +9,7 @@ Evidencia Nº4
 **Objetivo**: Diseñar y desarrollar una clase en Python que represente un objeto con funcionalidad
 lógica, aplicando TDD, conceptos de POO y diseñando la base de datos correspondiente.
 
-### DESCRIPCIÓN MÁQUINA SOPLADORA DE BOTELLAS
+### DESCRIPCIÓN OBJETO: MÁQUINA SOPLADORA DE BOTELLAS
 La máquina de soplado de botellas es un equipo especializado utilizado en la industria del envasado para fabricar botellas de plástico, generalmente de PET . A continuación Se detalla
 de cómo es el proceso general de una máquina de este tipo:
 

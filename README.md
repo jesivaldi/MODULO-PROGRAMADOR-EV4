@@ -1,6 +1,6 @@
 # MODULO-PROGRAMADOR-EV4
 
-Docentes: Programacion I :ROJAS, CÓRSICO IVANA / Base de datos: GERLERO, MARTÍN
+Docentes: Programación I :ROJAS, CÓRSICO IVANA / Base de datos: GERLERO, MARTÍN
 
 Alumno: VALDIVIA JESICA- 34980147
 
@@ -35,18 +35,18 @@ La temperatura ideal es de 90 a 120º aprox, se debe mantener esta temperatura p
 
  *Obejtivo logico*: Establecer una temperatura ideal y monitorearla constantemente con la tempertura actual del calentador.Si la temperatura es alta, la máquina debe bajarla automáticamente y viceversa.
  
-### -CONTROL DE LA PRESION DURANTE EL SOPLADO.
+### -CONTROL DE LA PRESIÓN DURANTE EL SOPLADO.
 
 La presión del aire utilizada para soplar las preformas dentro de los moldes debe ajustarse según el material 
 y el tamaño de la botella la presión ideal suele estar entre 25 a 40 bares. Una presión inadecuada podría deformar la botella o no llenarla completamente.
 
- *Obejtivo lógico*: Establecer una presion ideal y monitorearla constantemente con la presion actual en base al material y tamaño. En caso que la presion este fuera de la presion ideal la máquina debe 
+ *Obejtivo lógico*: Establecer una presion ideal y monitorearla constantemente con la presión actual en base al material y tamaño. En caso que la presión este fuera de la ideal la máquina debe 
  ajustarla automáticamente.
  
-### -CALCULO DEL TIEMPO DE SOPLADO BASADO EN EL TAMAÑO DE LA PROFORMA.
+### -CÁLCULO DEL TIEMPO DE SOPLADO BASADO EN EL TAMAÑO DE LA PROFORMA.
 En base al tamaño de la proforma el tiempo de soplado es diferente mientras mas grande es mayor el tiempo.
 
-*Obejtivo lógico*: la maquina debe calcular el tiempo necesario segun el tamaño de la proforma.
+*Obejtivo lógico*: la máquina debe calcular el tiempo necesario segun el tamaño de la proforma.
  
 
 
